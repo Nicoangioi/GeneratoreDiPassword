@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Mar 31 18:56:38 CEST 2024:
+Avvio della versione di Derby The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): istanza a816c00e-018e-9571-0dd4-00000f18ea28
+sulla directory di database C:\Users\nicoa\Documents\NetBeansProjects\Generatore di Password\P con caricatore classi jdk.internal.loader.ClassLoaders$AppClassLoader@3f99bd52 
+Caricato da file:/C:/Program%20Files/Java/jdk-21/db-derby-10.14.2.0-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=21.0.2+13-LTS-58
+user.dir=C:\Users\nicoa\Documents\NetBeansProjects\Generatore di Password
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Programma di caricamento classe database avviato - derby.database.classpath=''
